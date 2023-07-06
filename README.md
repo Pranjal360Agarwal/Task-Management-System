@@ -1,7 +1,6 @@
 # Task-Management-System
 The MERN stack Task Management System is a powerful yet user-friendly application designed to help individuals and teams efficiently manage their tasks and stay organized. It combines the robustness of the MERN stack, which includes MongoDB, Express.js, React, and Node.js, to deliver a seamless user experience.
 
-A MERN application for tasks management.
 ![image](https://user-images.githubusercontent.com/86913048/227101123-f8a35258-9c21-4479-86e8-055659ab75e2.png)
 
 ## Table of Contents
@@ -188,7 +187,8 @@ Inside backend folder:
   - VS Code keyboard shortcuts: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
   - CSS Selectors Cheatsheet: https://frontend30.com/css-selectors-cheatsheet/
 
+## Contact
 
-
-
+- Email: Pranjal360Agarwal@gmail.comq
+- Linkedin: https://www.linkedin.com/in/pranjalagarwal99/
 

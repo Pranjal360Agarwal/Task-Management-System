@@ -1,5 +1,5 @@
 # Task-Management-System
-The MERN stack Task Management System is a powerful yet user-friendly application designed to help individuals and teams efficiently manage their tasks and stay organized. It combines the robustness of the MERN stack, which includes MongoDB, Express.js, React, and Node.js, to deliver a seamless user experience.
+The MERN stack Task Management System is a powerful yet user-friendly application designed to help individuals and teams efficiently manage their tasks and stay organized. It combines the robustness of the MERN stack, which includes MongoDB, Express.js, React, and Node.js, to deliver a seamless user experience. It is responsive with user authentication.
 
 ![image](https://user-images.githubusercontent.com/86913048/227101123-f8a35258-9c21-4479-86e8-055659ab75e2.png)
 
